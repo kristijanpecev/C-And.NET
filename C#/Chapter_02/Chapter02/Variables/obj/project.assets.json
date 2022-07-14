@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
+      "projectUniqueName": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
+      "projectPath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
       "packagesPath": "C:\\Users\\Kiko\\.nuget\\packages\\",
-      "outputPath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Variables\\obj\\",
+      "outputPath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiko\\AppData\\Roaming\\NuGet\\NuGet.Config",

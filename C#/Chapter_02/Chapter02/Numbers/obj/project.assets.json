@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectPath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\Kiko\\.nuget\\packages\\",
-      "outputPath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Numbers\\obj\\",
+      "outputPath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiko\\AppData\\Roaming\\NuGet\\NuGet.Config",

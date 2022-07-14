@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gV6DPPg2h+4jHabXKYNdpmAzoXkOAOmJp3hJxTMpJlOlFAnmnwT00hZJP2I+AB/jJN25P3QsaQHmhVS2NT1/iw==",
+  "dgSpecHash": "Nt0U4p/YgFpBYWPKOTpZPihkAVzDxdNNjW8r2e5SYyPE1QN4hG7By9o9Q/IzzwIs/eSOMcbZFPD+Y0A8/f+XDg==",
   "success": true,
-  "projectFilePath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
+  "projectFilePath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Variables\\Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

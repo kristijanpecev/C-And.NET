@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0s1GmxryH/vKontc5aguKrOCzf9mgGr1oXiuua8HzfnZ4452a6cc2cltb4mn1igyJeSSrAO/7I62CgSBFmjpgg==",
+  "dgSpecHash": "b5v6AqhOg2KlTP4BnBlzBCTKI8d5A9iYDSxA3MZfxH43loKbGOkHC04La4VYuej11QU1ukBrm1ciWimTUv5pZQ==",
   "success": true,
-  "projectFilePath": "C:\\FullStackDevelopment\\GitAndGitHub\\C#And.NET\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
+  "projectFilePath": "C:\\FullStackDevelopment\\C#And.NET\\C#\\Chapter_02\\Chapter02\\Numbers\\Numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
