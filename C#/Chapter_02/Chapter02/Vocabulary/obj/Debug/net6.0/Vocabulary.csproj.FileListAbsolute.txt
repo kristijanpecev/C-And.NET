@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\Chapter_02\Chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll

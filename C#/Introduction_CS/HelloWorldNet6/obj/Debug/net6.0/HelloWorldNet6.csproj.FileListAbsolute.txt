@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.exe
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.deps.json
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.runtimeconfig.json
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.pdb
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.AssemblyInfo.cs
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\refint\HelloWorldNet6.dll
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.pdb
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.genruntimeconfig.cache
+C:\FullStackDevelopment\GitAndGitHub\C#And.NET\HelloWorldNet6\obj\Debug\net6.0\ref\HelloWorldNet6.dll
